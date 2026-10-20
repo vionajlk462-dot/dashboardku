@@ -83,4 +83,5 @@ with tab1:
 
   st.markdown("---")
   st.subheader("Statistik Deskriptif")
-  st.dataframe(df_filtered.describe(), use_container_width=
+  st.dataframe(df_filtered.describe(), use_container_width=True)
+    
