@@ -29,7 +29,7 @@ except Exception as e:
 # Header Utama Dashboard
 st.title("📊 Dashboard Interaktif Data Fiskal & Makroekonomi 97 Kota")
 st.markdown(
-    "Dibuat oleh **Zahra Rezki Dzakirah** | Visualisasi Data Fiskal Daerah"
+    "Dibuat oleh **VIONA JULIE KALANGIE** | Visualisasi Data Fiskal Daerah"
 )
 st.markdown("---")
 
